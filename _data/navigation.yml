@@ -1,12 +1,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Research"
+  - title: "Statement"
     url: /research/
   - title: "Posts"
     url: /categories/
-  #- title: "Tutorials"
-  #  url: /categories/
+  - title: "Research"
+    url: /collection-archive/
   - title: "Publication"
     url: /publication/
   - title: "Gallery"

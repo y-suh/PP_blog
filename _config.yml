@@ -87,18 +87,10 @@ include:
 
 # Collections
 collections:
-  Background:
+  Updates:
     output: true
     permalink: /:collection/:path/
-  Nanostructures:
-    output: true
-    permalink: /:collection/:path/
-  Setups:
-    output: true
-    permalink: /:collection/:path/
-#  portfolio:
-#    output: true
-#    permalink: /:collection/:path/
+
 
 
 

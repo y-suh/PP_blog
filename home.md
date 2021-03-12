@@ -18,11 +18,19 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  - image_path: /assets/images/research.png
-    alt: "research updates"
+  - image_path: /assets/images/whatwedo.jpg
+    alt: "What We Do"
+    title: "What We Do"
+    excerpt: "My work in a nutshell."
+    url: "/research/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
+  - image_path: /assets/images/work.png
+    alt: "Research Updates"
     title: "Research Updates"
     excerpt: "Exciting research projects gaining fundamental insights into nanoscale interfacial and transport physics through materials design and machine learning."
-    url: "/research/"
+    url: "/collection-archive/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
