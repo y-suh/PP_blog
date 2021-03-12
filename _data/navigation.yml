@@ -1,0 +1,16 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Posts"
+    url: /categories/
+  #- title: "Tutorials"
+  #  url: /categories/
+  - title: "Publication"
+    url: /publication/
+  - title: "Gallery"
+    url: /blog/
+  - title: "External Link"
+    url: https://won.eng.uci.edu
+    

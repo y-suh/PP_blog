@@ -1,0 +1,75 @@
+---
+layout: single
+classes: wide
+title:  "Characterizing Thermofluidic Transport"
+
+
+header:
+  teaser: /assets/images/inverse.png
+  overlay_image: /assets/images/inverse.png
+excerpt: "A Novel Microscopic Approach"
+---
+
+
+
+## Outcome ##
+
+
+<br/>
+
+Research ['Multiscale Evaporation Rate Measurement Using Microlaser-Induced Fluorescence'](https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.201804523) published as ***special edition*** in the Journal of Electronic Packaging.
+
+Poster presentation featured in UCI Samueli School of Engineering News, 'Two Win Best Poster Awards, UCI Samueli School of Engineering News': [https://engineering.uci.edu/news/2019/12/two-win-best-poster-awards](https://engineering.uci.edu/news/2019/12/two-win-best-poster-awards) (Dec 2019)'
+
+<br/>
+
+## Abstract ##
+
+As the heat generation at device footprint continuously increases in modern high-tech electronics, there is an urgent need to develop new cooling devices that balance the increasing power demands. To meet this need, cutting-edge cooling devices often utilize microscale structures that facilitate two-phase heat transfer. However, it has been difficult to understand how microstructures enhance evaporation performances through traditional experimental methods due to low spatial resolution. The previous methods can only provide coarse interpretations on how physical properties such as permeability, thermal conduction, and effective surface areas interact at the microscale to effectively dissipate heat. This motivates researchers to develop new methods to observe and analyze local evaporation phenomena at the microscale. Herein, we present techniques to characterize submicron to macroscale evaporative phenomena of microscale structures by using microlaser-induced fluorescence (*μ*LIF). We corroborate the use of unsealed temperature-sensitive dyes by systematically investigating the effects of temperature, concentration, and liquid thickness on the fluorescence intensity. Considering these factors, we analyze the evaporative performances of microstructures using two approaches. The first approach characterizes the overall and local evaporation rates by measuring the solution drying time. The second approach employs an intensity-to-temperature calibration curve to convert temperature-sensitive fluorescence signals to surface temperatures, which calculates the submicron-level evaporation rates. Using these methods, we reveal that the local evaporation rate between microstructures is high but is balanced with a large capillary-feeding. This study will enable engineers to decompose the key thermofluidic parameters contributing to the evaporative performance of microscale structures.
+{: style="text-align: justify;"}
+
+<figure style="width: 900px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jep/1.png" alt="">
+  <figcaption>Experimental setup to measure evaporative performance of microscale structures. (a) The porous structures used in this study show a highly interconnected network of coarse and fine copper particles as confirmed by scanning electron microscope image. The scalebar is 100 μm. The inset shows a magnified image of copper particles where the scalebar represents 2 μm. (b) The sample is mounted onto a glass slide where a heat flux of 0.75 Wcm−2 is applied by an ITO heater. A fluorescence dye solution is supplied through the porous copper structure and is excited by 559 nm wavelength laser. The emitted light passes through optical filters and is processed using a computer software to provide fluorescence imaging. The upper left and right insets show the top and side view of the chip, respectively. </figcaption>
+</figure> 
+
+
+
+
+## Main Findings ##
+
+In this study, we analyze the local and average evaporative performances of microstructures using *μ*LIF techniques at the submicron scales. We show the potential of the use of *μ*LIF techniques for evaporation characterizations by separating the interplaying parameters such as temperature, liquid thickness, and dye concentration of rhodamine B solutions. A series of techniques involving dynamic surface-tracking and static focal plane measurements of fluorescence signals have been demonstrated to characterize overall and local liquid dry-outs. Furthermore, we show that submicron level evaporation rates can be measured by retrieving surface temperature information converted from fluorescence signals. The integrated results infer that liquid confined between small characteristic lengths exhibits higher evaporation rates with slower drying rates. The slower drying rates might be attributed to the continuous liquid supply from the vicinity through capillary feeding. The *μ*LIF techniques introduced in this work will enable researchers to precisely characterize microscale thermofluidic properties in thermal/fluid applications
+{: style="text-align: justify;"}
+
+<figure style="width: 900px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jep/2.png" alt="">
+  <figcaption>Characterization of rhodamine B solution. (a) The plot shows that the fluorescence intensity of rhodamine B decreases as temperature increases. The decreasing trend is relatively independent of concentration. It should be noted that the gain of the 1 mM concentration case is set to a lower value than the 0.1 mM case due to excessive fluorescence signals. (b) The temperature-fluorescence intensity calibration curve is created by normalizing cold-field intensity values at 25 °C. The calibration curve shows excellent consistency between different concentrations and a good match with a previous research by Ross et al. (c) The focal length is fixed by maintaining a constant focus on the bottom slide. The focal length is initially determined by focusing on a marker as shown. (d) The fluorescence intensity exhibits an almost linear increasing trend with liquid thickness up to ∼500 μm. The measured fluorescence intensity values are normalized with intensity peak values for each experiment. Inset shows how a meniscus is formed between two glass slides. The scale bar is 1 mm. (e) A concentration estimation curve of an evaporating solution is plotted where the liquid thickness represents the amount of solution left. Insets show liquid thicknesses at different time frames. (f) The concentration effect on fluorescence intensity is plotted, showing the existence of a stable regime that is relatively independent of concentration between 2 and 7 mM. </figcaption>
+</figure> 
+
+
+
+<figure style="width: 900px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jep/3.png" alt="">
+  <figcaption>Overall and local evaporation rate characterization. (a)–(c) In the surface-tracking method, the liquid–vapor interface moves along the z-axis as the rhodamine B solution evaporates. The fluorescence signal emitted from the liquid–vapor interface is tracked by changing the focus plane (surface-tracking method). (a) and (b) The figures illustrate the surface-tracking method where (a) is the initial state and (b) is an arbitrary state during the process. (c) Real-time fluorescence images show the fluorescence intensity decay as the rhodamine B droplet evaporates. The scale bar represents 20 μm. (d)–(f) Unlike the surface-tracking method, the local evaporation rate is characterized by maintaining focus on a consistent plane (d) before and (e) during the evaporation process. (f) Temporal fluorescence images show that the fluorescence intensity decays as the solvent evaporates. The scale bar is 20 μm.</figcaption>
+</figure> 
+
+
+
+<figure style="width: 900px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jep/4.png" alt="">
+  <figcaption>Microscale dry-out. (a) The image shows examples of characteristic lengths of the liquid–vapor surface area between solid particles (circular shapes). The solid particles have low fluorescence intensity profiles which can be attributed to the inability of the excitation light to penetrate through solid materials. The scale bar is 20 μm. (b) The local drying speed shows an almost linear increasing trend with longer characteristic length, indicating that the solution dry-out occurs faster for longer characteristic lengths. The capillary pressure estimation plot based on the feature sizes shows that domains with shorter characteristic lengths provide larger capillary forces.</figcaption>
+</figure> 
+
+
+
+<figure style="width: 900px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jep/5.png" alt="">
+  <figcaption>Local evaporation rate measurement. (a) A reservoir continuously supplies liquid to the wick to maintain constant liquid levels during the experiment. Average fluorescence intensities are measured for both the (b) cold-field and (c) steady-state. The microregime is visually identified by sharp fluorescence intensity-based color contrasts at the peripheral of the solid structure. The bulk liquid surface is approximately 10 μm apart from the solid particle where fluorescence intensity has a relatively uniform profile. The scale bar represents 20 μm.</figcaption>
+</figure> 
+
+
+
+<figure style="width: 900px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jep/6.png" alt="">
+  <figcaption>Evaporation-induced liquid flow paths within microscale structures. (a) The local evaporation rate near the liquid–vapor–solid contact line is higher than the local evaporation rate of the bulk liquid. (b) The illustrations show capillary filling into microcavities with smaller feature sizes where to is the initial state after liquid is wicked and t is an arbitrary state during the evaporation process.</figcaption>
+</figure> 
