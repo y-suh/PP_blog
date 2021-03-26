@@ -71,6 +71,6 @@ Done!
 Now you are all set to go!
 
 <figure style="width: 900px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/colab.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/colab.PNG" alt="">
   <figcaption></figcaption>Here is the snapshot of the button locations!
-</figure> 
+</figure>

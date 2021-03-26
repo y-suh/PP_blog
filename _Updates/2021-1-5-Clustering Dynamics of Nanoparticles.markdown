@@ -36,9 +36,10 @@ Colloidal self-assembly is a process in which dispersed matter spontaneously for
 {: style="text-align: justify;"}
 
 <figure style="width: 900px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jcis/Figure1.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jcis/Figure1.JPG" alt="">
   <figcaption>In situ monitoring of evaporative colloidal self-assembly through the use of microscale laser induced fluorescence (μLIF) techniques. (a) Particles are guided towards a growth front by evaporation-induced convective flows. An ordered structure of colloidal spheres forms as more spheres accumulate. to and t1 represent different time frames. (b) As nanospheres start to assemble into crystalline opals, a relatively constant thickness film develops. (c-e) The number of dye particles loaded onto colloidal particles and mean distances between doped particles dictates the saturation level of the film and thereby the fluorescence intensity. The figures illustrate how the local dye concentration changes during the three distinctive regimes called the (c) saturated regime, the (d) wet regime, and the (e) dry regime. The change in fluorescence intensity is illustrated as orange luminance. (f) During the μLIF measurement, a light source (green) excites the dye particles, causing it to fluoresce light at a higher wavelength. The light passes through an optical filter to a charge-coupled device (CCD) camera and is postprocessed in PC with software. </figcaption>
 </figure> 
+
 
 
 
@@ -50,19 +51,20 @@ We employ a novel μLIF technique that overcomes extant resolution barriers to e
 {: style="text-align: justify;"}
 
 <figure style="width: 900px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jcis/Figure2.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jcis/Figure2.JPG" alt="">
   <figcaption>Distinctive saturation regimes during evaporative self-assembly. (a) The image shows the wet regime expanding through the saturated regime. (b) As the wet regime expands, cracks initiate and propagate in the drying direction (i.e., longitudinal cracks), which are indicated by arrows. (c) At a later stage, cracks perpendicular to the drying direction (i.e., transverse cracks) form and create an isolated domain (i.e., grain). The opal film dries in discrete steps as local grain dry-out occurs. Individual grains are identified with numbers for the dry-out analysis in Figure 4. (d) The fluorescence intensity abruptly increases after the complete dry-out. The scale bars represent 100 μm. (e) The average fluorescence intensity of the dashed box in (a) shows stepwise increases with time. Each step represents a different saturation regime (e.g., saturated regime, wet regime, and dry regime). The inset shows the average intensity of each saturation regime. </figcaption>
 </figure> 
 
 
 
+
 <figure style="width: 900px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jcis/Figure3.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jcis/Figure3.JPG" alt="">
   <figcaption>Crack formation and propagation phenomena associated with the local evaporation. (a-c) High magnified fluorescence images show a longitudinal crack propagating through the film. (a) The drying direction and cracking direction are shown. (b) The opal domain and the near-crack domain is indicated in the figure. (c) Dry-out causes the fluorescence intensity to drastically increase. (d) The fluorescence intensity profile of the dashed line drawn in (a) exhibits high intensities at the near-crack domain (red block). The abrupt dip in fluorescence intensity is caused by the absence of solution at the fissure caused by the crack. (e) Time-dependent plots of the opal and the near-crack domains show fluorescence intensity differences between the two domains decreases as the film dries. (f) The normalized dryness shows that the near-crack domain has a ~25% higher fluorescence intensity than the opal domain during the wet regime, which indicates a lower saturation level. The crack formation and propagation associated with local evaporation phenomena are illustrated from the (g-i) top and (j-l) front view. The blue and grey color represent dry and wet nanospheres, respectively.  </figcaption>
 </figure> 
 
 
 <figure style="width: 900px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jcis/Figure4.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jcis/Figure4.JPG" alt="">
   <figcaption>Grain dry-out mechanism. (a) As longitudinal cracks form, the separated structures are continuously supplied with liquid via capillary wicking. Longitudinal cracks form due to tensile forces (indicated in black arrows) in the direction perpendicular to the drying direction. On the other hand, (b) transverse cracks form due to tensile forces parallel to the drying direction (indicated in black arrows). Transverse cracks prevents further liquid supply to the isolated structure (i.e., grain), which leads to local grain dry-out. (c) The average intensity of individual grains in Figure 2c displays a stepwise increase right after transverse cracks form. The arrows indicate when longitudinal and transverse cracks start to form.  </figcaption>
 </figure> 
