@@ -7,7 +7,7 @@ header:
 
 excerpt: >
   A page built to share ideas and inspire.<br />
-  <small><a href="http://localhost:4000/pyphase/bio/">who am I</a></small>
+  <small><a href="http://localhost:4000/pyphase/bio/">About</a></small>
 feature_row:
 
   - image_path: /assets/images/welcome.png

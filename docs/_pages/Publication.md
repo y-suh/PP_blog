@@ -139,7 +139,7 @@ permalink: /publication/
 
 ## 2020
 
-Quach, V. N., Pham, N. Q., Han, J-H., **Suh, Y.**, Park, J-S., Won, Y. (2020, October) Surface Engineering Through Atomic Layer Deposition on Three-Dimensionally Structured Materials. *In ASME 2020 International Technical Conference and Exhibition on Packaging and Integration of Electronic and Photonic Microsystems.* American Society of Mechanical Engineers Digital Collection. (*Accepted*)
+Quach, V. N., Pham, N. Q., Han, J-H., **Suh, Y.**, Park, J-S., Won, Y. (2020, October) Surface Engineering Through Atomic Layer Deposition on Three-Dimensionally Structured Materials. *In ASME 2020 International Technical Conference and Exhibition on Packaging and Integration of Electronic and Photonic Microsystems.* American Society of Mechanical Engineers Digital Collection. 
 
 
 
