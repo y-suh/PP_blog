@@ -18,7 +18,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  - image_path: /assets/images/whatwedo.jpg
+  - image_path: /assets/images/statement.jpg
     alt: "Research Statement"
     title: "Research Statement"
     excerpt: "AI-driven Thermal Energy Science."

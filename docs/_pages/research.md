@@ -4,8 +4,8 @@ layout: single
 classes: wide
 excerpt: "**Bubbles and Droplets are Amazing!**"
 header:
-  overlay_image: /assets/images/bubbles.jpg
-  teaser: /assets/images/bubbles.jpg
+  overlay_image: /assets/images/Bubbles2.png
+  teaser: /assets/images/Bubbles2.png
 
 author_profile: true
 
@@ -26,7 +26,7 @@ My research intersects the multidisciplinary fields of **machine learning, therm
 
 <figure style="width: 500px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Figure 1.jpg" alt="">
-  <figcaption>Image-based regression framework schematic. Remotely acquired images are provided to the framework where cutting-edge convolutional neural network (CNN) architectures and advanced object detection algorithms automatically extract features. The proposed framework learns from a hierarchy of image features as well as boiling physics with the aim of predicting real-time boiling heat flux.</figcaption>
+  <figcaption>Image-based regression framework schematic. Remotely acquired images are provided to the framework where cutting-edge convolutional neural network (CNN) architectures and advanced object detection algorithms auto<br/>matically extract features. The proposed framework learns from a hierarchy of image features as well as boiling physics with the aim of predicting real-time boiling heat flux.</figcaption>
 </figure> 
 
 
