@@ -6,22 +6,22 @@ header:
   overlay_image: /assets/images/inverse-opal.png
 
 excerpt: >
-  A page built to share ideas and inspire.<br />
+  Welcome to my page. <br />
   <small><a href="http://localhost:4000/pyphase/bio/">About</a></small>
 feature_row:
 
   - image_path: /assets/images/welcome.png
     alt: "about me"
-    title: "Welcome to Pyphase!"
+    title: "People"
     excerpt: "All about me and what I do."
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
   - image_path: /assets/images/whatwedo.jpg
-    alt: "What We Do"
-    title: "What We Do"
-    excerpt: "My work in a nutshell."
+    alt: "Research Statement"
+    title: "Research Statement"
+    excerpt: "AI-driven Thermal Energy Science."
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -34,13 +34,13 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  - image_path: /assets/images/education.png
-    alt: "tutorials"
-    title: "Educational Posts"
-    excerpt: "Learn how cutting-edge machine learning and nanofabrication techniques are being integrated into the thermal science community."
-    url: "/categories/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+#  - image_path: /assets/images/education.png
+#    alt: "tutorials"
+#    title: "Educational Posts"
+#    excerpt: "Learn how cutting-edge machine learning and nanofabrication techniques are being integrated into the thermal science community."
+#    url: "/categories/"
+#    btn_class: "btn--primary"
+#    btn_label: "Learn more"
 
   - image_path: /assets/images/gallery.png
     alt: "publication"
