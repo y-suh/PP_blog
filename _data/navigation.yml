@@ -3,8 +3,8 @@ main:
     url: /about/
   - title: "Statement"
     url: /research/
-  - title: "Posts"
-    url: /categories/
+  #- title: "Posts"
+#    url: /categories/
   - title: "Research"
     url: /collection-archive/
   - title: "Publication"
@@ -13,4 +13,3 @@ main:
     url: /blog/
   - title: "External Link"
     url: https://won.eng.uci.edu
-    
