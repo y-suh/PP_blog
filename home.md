@@ -3,17 +3,17 @@ layout: splash
 permalink: "/"
 hidden: true
 header:
-  overlay_image: /assets/images/inverse-opal.png
+  overlay_image: /assets/images/Yosemite.png
 
 excerpt: >
-  Welcome to my page. <br />
+  Ph.D. in Mechanical Engineering <br />
   <small><a href="http://localhost:4000/pyphase/bio/">About</a></small>
 feature_row:
 
   - image_path: /assets/images/welcome.png
     alt: "about me"
     title: "People"
-    excerpt: "All about me and what I do."
+    excerpt: "About me."
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -21,7 +21,7 @@ feature_row:
   - image_path: /assets/images/statement.jpg
     alt: "Research Statement"
     title: "Research Statement"
-    excerpt: "AI-driven Thermal Energy Science."
+    excerpt: "Research Thrusts and Interests."
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -29,7 +29,7 @@ feature_row:
   - image_path: /assets/images/work.png
     alt: "Research Updates"
     title: "Research Updates"
-    excerpt: "Exciting research projects gaining fundamental insights into nanoscale interfacial and transport physics through materials design and machine learning."
+    excerpt: "Project Summary and Updates"
     url: "/collection-archive/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -53,7 +53,7 @@ feature_row:
   - image_path: /assets/images/gallery2.png
     alt: "gallery"
     title: "Gallery"
-    excerpt: "Artwork recreating my life as a father, scientist, and traveler. Including featured cover art as well!"
+    excerpt: "My artwork"
     url: "/blog/"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
