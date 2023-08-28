@@ -1,6 +1,6 @@
 ---
 author_profile: true
-title: "Welcome to PyPhase!"
+title: "Youngjoon Suh"
 layout: collection
 permalink: /about/
 collection: portfolio
@@ -8,7 +8,7 @@ entries_layout: grid
 classes: wide
 
 text_color: "#5e416c"
-excerpt: <span style="color:white">**Love all, trust a few, do wrong to none.**</span> 
+excerpt: <span style="color:white">**About me**</span> 
 
 header:
   overlay_image: /assets/images/connection.jpg
@@ -36,33 +36,37 @@ gallery:
 
 ---
 
-## About me
+## Introduction
 
-**I'm a husband, a father of two beautiful daughters, and a graduate student researcher pursuing a PhD of Mechanical Engineering at the University of California, Irvine.** 
+**Hi. My name is Youngjoon and I am a postdoctoral scholar at the University of California, Irvine.** 
 
 <figure style="width: 280px" class="align-left">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/family.jpg" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Family_Sedona.png" alt="">
 </figure>
 
 <br/>
 
-Research is fun and worth sharing, which is why building a platform where ideas can be shared is so important these days. I started this website to introduce the exciting cutting-edge research that we are conducting in our lab and to expand on my personal life. I also wanted to document educational resources which I believe will help you understand how to start using Computer Vision/Deep Learning to your own research as well! 
+The driving force behind all my research is the unwavering support from my family. I have two beautiful daughters and a loving wife. We like to travel and explore new places. A lot of my creative thoughts actually stem from the interactions and experiences that I go through with my family. 
 
  <br/>
 
 <br/>                                                                                                                                      
 
-## Research
+## Education
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/ml2.jpg){: .align-center}
+Ph.D. in Mechanical Engineering, University of California, Irvine
 
-Phase change phenomena is one of Nature’s most efficient methods to transfer energy and involves the nucleation of the secondary phase, such as bubbles or droplets, respectively, for boiling and condensation processes.  Over the past few decades, liquid-vapor phase change cooling strategies including boiling and condensation have surfaced as an excellent remedy to many thermal management issues. However, understanding and characterizing processes that involve phase change is a daunting task in thermal and energy technologies. With the recent advances in artificial intelligence, machine learning models now can be incorporated into phase-change research. My research’s overarching objective is to gain fundamental insights into two-phase transport physics by linking surface design, real-time nucleation statistics, and heat transfer performances. To do this my research is divided into two main thrusts below.
+M.S. in Mechanical Engineering, University of California, Irvine
 
-**1.** My first research thrust is to **investigate and engineer micro/nanoscale surfaces to optimize thermofluidic transport for two-phase cooling applications**. From the designing perspective, it has been difficult to precisely predict how microstructures affect thermofluidic transport through traditional low-resolution experiments. From the manufacturing perspective, large-scale (> 100 mm) fabrication of self-assembled wick templates are restricted due to solvent evaporation-induced structural defects called grain boundaries. Motivated by this multistep task, we develop novel metrologies to study microscopic thermofluidic transport in porous media and demonstrate control of nanoscale defects with high precision. 
+B.S. in Mechanical Engineering, Chung-Ang University, Seoul
 
-**2.** My second research thrust aims to **model the interconnected relationships among boiling/condensation surfaces, bubble/droplet statistics, and heat transfer performance by integrating experimental metrology, and machine learning**. Central to unveiling the thermofluidic principles during phase change heat transfer is the extraction of interpretable and rich physical descriptors from the bubbles and droplets. However, connecting nucleation statistics with heat transfer performances poses a challenge to researchers because extracting physics out of thousands of complex and dynamic objects with conventional measuring technology is virtually impossible. We demonstrate successful linkage of heat transfer and nucleation statistics through Image-based Feature Regression and Data-driven Physics approaches. 
 
-The results of our research will provide a blueprint for designing engineered surfaces with adaptive thermal management, even in the presence of boiling. This work will bring important societal benefits to thermal and energy engineering applications.
+
+## Research Interests
+
+My research’s overarching objective is to gain fundamental insights into two-phase transport physics by linking surface design, real-time nucleation statistics, and heat transfer performances. The research efforts aim to bring transformational efficiency enhancements in energy, water, manufacturing processes, and electronics cooling by fundamentally manipulating liquid-solid-vapor interactions and transport phenomena across multiple length and time scales. 
+
+
 
 ## Hobby
 
