@@ -22,7 +22,22 @@ permalink: /publication/
 
 ## 2021
 
-<a href="https://www.nature.com/articles/s41598-021-85150-4"> <figure style="width: 200px" class="align-left">
+<a href="https://onlinelibrary.wiley.com/doi/10.1002/advs.202101794"> <figure style="width: 200px" class="align-left">
+ 	 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/advanced_science.jpg" alt="">   
+
+### A Deep Learning Perspective on Dropwise Condensation
+
+ **Suh, Y.**, Lee, J., Simadiris, P., Yan, Xiao., Sett, S., Li, L., Rabbi, K.R., Miljkovic, N., Won, Y\*.
+
+[*Advanced Science*, 142(3), DOI: 10.1115/1.4046767](https://onlinelibrary.wiley.com/doi/10.1002/advs.202101794)
+
+**Highlighted** in [Hot Topic: Artificial Intelligence and Machine Learning](https://onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2513-0390.hottopic-artificialintelligence)
+
+<br/>
+
+<br/>
+
+<br/><a href="https://www.nature.com/articles/s41598-021-85150-4"> <figure style="width: 200px" class="align-left">
  	 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/scirep.jpg" alt="">   
 
 ### Deep Learning Predicts Boiling Heat Transfer                                                                   
@@ -154,6 +169,10 @@ Pham, Q. N., **Suh, Y.**, Shao, B., & Won, Y. (2019, October). Boiling Heat Tran
 <br/>
 
 # Presentations
+
+## 2021
+
+“Intelligent Vision Enables Data-driven Analysis for Pool Boiling,” micro Flow and Interfacial Phenomena (μFIP) Conference, Virtual Conference, Online, 2021.
 
 ## 2020
 

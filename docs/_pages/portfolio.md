@@ -40,11 +40,17 @@ gallery:
 
 **I'm a husband, a father of two beautiful daughters, and a graduate student researcher pursuing a PhD of Mechanical Engineering at the University of California, Irvine.** 
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/me2.jpg){: .align-left} 
+<figure style="width: 280px" class="align-left">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/family.jpg" alt="">
+</figure>
+
+<br/>
 
 Research is fun and worth sharing, which is why building a platform where ideas can be shared is so important these days. I started this website to introduce the exciting cutting-edge research that we are conducting in our lab and to expand on my personal life. I also wanted to document educational resources which I believe will help you understand how to start using Computer Vision/Deep Learning to your own research as well! 
 
-​                                                                                                                                        
+ <br/>
+
+<br/>                                                                                                                                      
 
 ## Research
 
@@ -66,4 +72,4 @@ I personally found myself finding so many interesting things that I wanted to sh
 
 Apart from science-art, I enjoy re-creating moments that I had with my family as well!
 
-My artworks are posted in the [gallery]({{ site.url }}{{ site.baseurl }}/blog/), but be sure to check out and follow my Instagram account ([ys_sciart](https://www.instagram.com/ys_sciart/)) for more content!
+My artworks are posted in the [gallery]({{ site.url }}{{ site.baseurl }}/blog/), but be sure to check out and follow my Instagram account ([drdadgineer](https://www.instagram.com/drdadgineer/)) for more content!
