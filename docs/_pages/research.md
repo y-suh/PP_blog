@@ -1,8 +1,8 @@
 ---
-title: "Research"
+title: "Research Thrusts"
 layout: single
 classes: wide
-excerpt: "**Youngjoon Suh.**"
+excerpt: "**Bubbles and Droplets are Amazing!**"
 header:
   overlay_image: /assets/images/bubbles.jpg
   teaser: /assets/images/bubbles.jpg
