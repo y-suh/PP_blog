@@ -2,10 +2,10 @@
 title: "Publication"
 layout: single
 classes: wide
-excerpt: "**To get to know, to discover, to publish - this is the destiny of a scientist.**"
+excerpt: "****"
 header:
-  overlay_image: /assets/images/research.jpg
-  teaser: /assets/images/research.jpg
+  overlay_image: /assets/images/water.jpg
+  teaser: /assets/images/water.jpg
 
 author_profile: False
 
@@ -23,7 +23,7 @@ permalink: /publication/
 ## 2021
 
 <a href="https://onlinelibrary.wiley.com/doi/10.1002/advs.202101794"> <figure style="width: 200px" class="align-left">
- 	 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/advanced_science.jpg" alt="">   
+ 	 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Advanced Science Cover.jpg" alt="">   
 
 ### A Deep Learning Perspective on Dropwise Condensation
 
