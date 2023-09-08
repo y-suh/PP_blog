@@ -18,7 +18,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  - image_path: /assets/images/statement.jpg
+  - image_path: /assets/images/education.png
     alt: "Research Statement"
     title: "Research Statement"
     excerpt: "Research Thrusts and Interests."
