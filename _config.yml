@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Youngjoon Suh"
-  avatar : "/assets/images/profile.png"
+  avatar : "/assets/images/Profile.png"
   bio    : "Postdoctoral Scholar"
   links:
     - label: "GitHub"
