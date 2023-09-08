@@ -1,8 +1,8 @@
 ---
-title: "Publication"
+title: "Publication & Presentations"
 layout: single
 classes: wide
-excerpt: "****"
+excerpt: "**Peer Reviewed Journal and Conference Publications**"
 header:
   overlay_image: /assets/images/water.jpg
   teaser: /assets/images/water.jpg
@@ -23,7 +23,7 @@ permalink: /publication/
 ## 2021
 
 <a href="https://onlinelibrary.wiley.com/doi/10.1002/advs.202101794"> <figure style="width: 200px" class="align-left">
- 	 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Advanced Science Cover.jpg" alt="">   
+ 	 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Advanced_Science_Cover.jpg" alt="">   
 
 ### A Deep Learning Perspective on Dropwise Condensation
 
