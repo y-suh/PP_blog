@@ -3,7 +3,7 @@ layout: splash
 permalink: "/"
 hidden: true
 header:
-  overlay_image: /assets/images/Yosemite.png
+  overlay_image: /assets/images/homecover.png
 
 excerpt: >
   Ph.D. in Mechanical Engineering <br />

@@ -4,8 +4,8 @@ layout: single
 classes: wide
 excerpt: "**Bubbles and Droplets are Amazing!**"
 header:
-  overlay_image: /assets/images/Bubbles2.png
-  teaser: /assets/images/Bubbles2.png
+  overlay_image: /assets/images/underwater.jpg
+  teaser: /assets/images/underwater.jpg
 
 author_profile: true
 
