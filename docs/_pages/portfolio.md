@@ -54,9 +54,7 @@ The driving force behind all my research is the unwavering support from my famil
 
 <br/>
 
-<br/>
-
-<br/>                                                                                                                                      
+​                                                                                                                                      
 
 ## Education
 
