@@ -18,12 +18,29 @@ permalink: /publication/
 
 # Journal Publication
 
+## 2022
 
+<a href="https://pubs.rsc.org/en/content/articlelanding/2022/nr/d2nr02447k"> <figure style="width: 200px" class="align-left">
+
+ 	 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/nanoscale.jpg" alt="">   
+
+### Computer Vision-Assisted Investigation of Boiling Heat Transfer on Segmented Nanowires with Vertical Wettability
+
+ Lee, J., **Suh, Y.***, Kuciej, M., Simadiris, P., Barako, M., Won, Y\*.
+
+[*Nanoscale*, 14(36), DOI: 10.1039/D2NR02447K](https://pubs.rsc.org/en/content/articlehtml/2022/nr/d2nr02447k)
+
+**Selected for** [Cover Art](https://pubs.rsc.org/en/content/articlelanding/2022/nr/d2nr90182j)
+
+<br/>
+
+<br/>
+
+<br/>
 
 ## 2021
 
 <a href="https://onlinelibrary.wiley.com/doi/10.1002/advs.202101794"> <figure style="width: 200px" class="align-left">
-
  	 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Advanced_Science_Cover.png" alt="">   
 
 ### A Deep Learning Perspective on Dropwise Condensation
@@ -54,8 +71,6 @@ permalink: /publication/
 <br/>
 
 ## 2020
-
-
 
 <a href="https://www.sciencedirect.com/journal/journal-of-colloid-and-interface-science/vol/576/suppl/C"> <figure style="width: 200px" class="align-left">
  	 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/JCIS Cover Image.jpg" alt="">   
