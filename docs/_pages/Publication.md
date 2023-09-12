@@ -18,13 +18,17 @@ permalink: /publication/
 
 # Journal Publication
 
-<br/>
-
 ## 2022
+
+<figure>
 
 <a href="https://pubs.rsc.org/en/content/articlelanding/2022/nr/d2nr02447k"> <figure style="width: 200px" class="align-left">
 
  	 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/nanoscale.jpg" alt="">   
+
+</a>
+
+</figure>
 
 ### Computer Vision-Assisted Investigation of Boiling Heat Transfer on Segmented Nanowires with Vertical Wettability
 
