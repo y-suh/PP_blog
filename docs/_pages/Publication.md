@@ -2,7 +2,7 @@
 title: "Publication & Presentations"
 layout: single
 classes: wide
-excerpt: "**Peer Reviewed Journal and Conference Publications**"
+excerpt: "**Peer Reviewed Research Articles and Presentations**"
 header:
   overlay_image: /assets/images/water.jpg
   teaser: /assets/images/water.jpg
@@ -20,15 +20,11 @@ permalink: /publication/
 
 ## 2022
 
-<figure>
-
 <a href="https://pubs.rsc.org/en/content/articlelanding/2022/nr/d2nr02447k"> <figure style="width: 200px" class="align-left">
 
  	 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/nanoscale.jpg" alt="">   
 
 </a>
-
-</figure>
 
 ### Computer Vision-Assisted Investigation of Boiling Heat Transfer on Segmented Nanowires with Vertical Wettability
 
