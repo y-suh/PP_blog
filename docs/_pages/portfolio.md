@@ -8,11 +8,11 @@ entries_layout: grid
 classes: wide
 
 text_color: "#5e416c"
-excerpt: <span style="color:white">**About me**</span> 
+excerpt: <span style="color:white">**About**</span> 
 
 header:
-  overlay_image: /assets/images/connection.jpg
-  teaser: /assets/images/connection.jpg
+  overlay_image: /assets/images/about.jpg
+  teaser: /assets/images/about.jpg
 sidebar:
   - title: "Occupation"
     text: "University of California, Irvine"
