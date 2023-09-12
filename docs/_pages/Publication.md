@@ -18,6 +18,8 @@ permalink: /publication/
 
 # Journal Publication
 
+<br/>
+
 ## 2022
 
 <a href="https://pubs.rsc.org/en/content/articlelanding/2022/nr/d2nr02447k"> <figure style="width: 200px" class="align-left">
@@ -36,7 +38,7 @@ permalink: /publication/
 
 <br/>
 
-<br/>
+
 
 ## 2021
 
