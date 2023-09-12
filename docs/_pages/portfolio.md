@@ -68,6 +68,12 @@ B.S. in Mechanical Engineering, Chung-Ang University, Seoul
 
 
 
+## Curriculum Vitae
+
+<object data="../assets/CV/CV_Suh.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+
+
 ## Research Interests
 
 My research’s overarching objective is to gain fundamental insights into two-phase transport physics by linking surface design, real-time nucleation statistics, and heat transfer performances. The research efforts aim to bring transformational efficiency enhancements in energy, water, manufacturing processes, and electronics cooling by fundamentally manipulating liquid-solid-vapor interactions and transport phenomena across multiple length and time scales. 
