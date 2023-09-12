@@ -24,7 +24,7 @@ permalink: /publication/
 
 <a href="https://onlinelibrary.wiley.com/doi/10.1002/advs.202101794"> <figure style="width: 200px" class="align-left">
 
- 	 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Advanced_Science_Cover.jpg" alt="">   
+ 	 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Advanced_Science_Cover.png" alt="">   
 
 ### A Deep Learning Perspective on Dropwise Condensation
 
