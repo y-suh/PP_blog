@@ -25,11 +25,25 @@ permalink: /publication/
 
 ### Computer Vision-Assisted Investigation of Boiling Heat Transfer on Segmented Nanowires with Vertical Wettability
 
- Lee, J., **Suh, Y.***, Kuciej, M., Simadiris, P., Barako, M., Won, Y\*.
+ Lee, J.†, **Suh, Y.†**, Kuciej, M., Simadiris, P., Barako, M., Won, Y\*.
 
 [*Nanoscale*, 14(36), DOI: 10.1039/D2NR02447K](https://pubs.rsc.org/en/content/articlehtml/2022/nr/d2nr02447k)
 
 **Selected for** [Cover Art](https://pubs.rsc.org/en/content/articlelanding/2022/nr/d2nr90182j)
+
+† Contributed equally
+
+<br/>
+
+<br/>
+<a href="https://www.sciencedirect.com/science/article/pii/S0017931022004896"> <figure style="width: 200px" class="align-left">
+ 	 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/IJHMT.jpg" alt="">   
+
+### Machine Learning Enabled Condensation Heat Transfer Measurement
+
+ Khodakarami, S., Rabbi, K. F., **Suh, Y.**, Won, Y\., Miljkovic N*.
+
+[*International Journal of Heat and Mass Transfer*, 194(14), DOI: 10.j.ijheatmasstransfer.2022.123016](https://www.sciencedirect.com/science/article/pii/S0017931022004896)
 
 <br/>
 
@@ -185,9 +199,19 @@ Pham, Q. N., **Suh, Y.**, Shao, B., & Won, Y. (2019, October). Boiling Heat Tran
 
 # Presentations
 
+## 2022
+
+"Need for Speed: Digitalizing Boiling Dynamics using Deep Learning-Assisted Optical Flow", International Conference on micro Flow and Interfacial Phenomena (μFIP), Evanston, IL, USA, 2023.
+
+“VISIONiT: A Vision-based Framework for Nucleation Phase Change Science,” International Conference on micro Flow and Interfacial Phenomena (μFIP), Irvine, CA, USA, 2022. **Keynote Presentation Award**
+
 ## 2021
 
-“Intelligent Vision Enables Data-driven Analysis for Pool Boiling,” micro Flow and Interfacial Phenomena (μFIP) Conference, Virtual Conference, Online, 2021.
+"Learning Droplets, Bubbles, and their Dynamics," International Conference on Miniaturized Systems for Chemistry and Life Sciences (μTAS), Palm Springs, CA, USA, 2021.
+
+“AI enables new phase change studies,” NSF JST Workshop, Virtual Conference, 2021. **Best Poster Award**
+
+“Intelligent Vision Enables Data-driven Analysis for Pool Boiling,” micro Flow and Interfacial Phenomena (μFIP) Conference, Virtual Conference, Online, 2021. **Keynote Presentation Award**
 
 ## 2020
 
@@ -199,6 +223,6 @@ Pham, Q. N., **Suh, Y.**, Shao, B., & Won, Y. (2019, October). Boiling Heat Tran
 
 “Microstructural Patterning of Self-Assembled Colloidal Particles,” 17th International Conference on Nanochannels, Microchannels, and Minichannels (ICNMM), St. John’s, Newfoundland, Canada, 2019
 
-“Evaporation Rate Measurement at the Submicron Level using Temperature-Sensitive Fluorescence Thermometry,” 17th International Conference on Nanochannels, Microchannels, and Minichannels (ICNMM), St. John’s, Newfoundland, Canada, 2019
+“Evaporation Rate Measurement at the Submicron Level using Temperature-Sensitive Fluorescence Thermometry,” 17th International Conference on Nanochannels, Microchannels, and Minichannels (ICNMM), St. John’s, Newfoundland, Canada, 2019. **Best Poster Award**
 
 “Effect of Airway Geometry on Expiratory Flow**,”** The Korean Society of Medical & Biological Engineering Conference, Korea University, Seoul, South Korea, 2016. 

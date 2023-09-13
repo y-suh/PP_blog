@@ -3,7 +3,7 @@ layout: splash
 permalink: "/"
 hidden: true
 header:
-  overlay_image: /assets/images/homecover.png
+  overlay_image: /assets/images/homecover.jpg
 
 excerpt: >
   Ph.D. in Mechanical Engineering <br />
